@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        QuickUnion inst = new QuickUnion(100000);
+        WQUPC inst = new WQUPC(100000000);
 
         inst.union(4, 5);
         inst.union(5, 6);
